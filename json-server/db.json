@@ -17,7 +17,7 @@
       "title": "Как правильно использовать тег <form>?",
       "subtitle": "Без этого тега ни одна форма работать не будет!",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/9nYV/GAprFnvg7",
-      "views": 351,
+      "views": 353,
       "userId": "1",
       "createdAt": "25.01.2024",
       "type": [
@@ -97,7 +97,7 @@
       "title": "display, display, display...",
       "subtitle": "Объясняем, как менять стандартный тип отображения на произвольный",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/66f9/EWKBTdnou",
-      "views": 237,
+      "views": 242,
       "userId": "1",
       "createdAt": "10.02.2024",
       "type": [
@@ -206,7 +206,7 @@
       "title": "Булев тип",
       "subtitle": "На некоторые вопросы нужно отвечать только «да» или «нет». Булев тип как раз про это",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/USeV/KgYaJXcaC",
-      "views": 76,
+      "views": 79,
       "userId": "1",
       "createdAt": "12.05.2024",
       "type": [
@@ -341,7 +341,7 @@
       "title": "Что такое Webpack?",
       "subtitle": "Рассказываем, как устроен самый известный бандлер и как настроить базовый проект",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/oSM2/ZD7nY3pYK",
-      "views": 71,
+      "views": 73,
       "userId": "1",
       "createdAt": "28.12.2023",
       "type": [
@@ -481,7 +481,7 @@
       "title": "Почти всё в JavaScript — объект",
       "subtitle": "Что бы мы ни использовали при написании JS кода, почти всё это объекты под капотом",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/wXWu/8Pu2SkFdm",
-      "views": 108,
+      "views": 111,
       "userId": "1",
       "createdAt": "22.02.2024",
       "type": [
@@ -650,7 +650,7 @@
       "title": "Функция как тип данных",
       "subtitle": "С функцией можно работать, как с любым другим типом данных: сохранять в переменную, передавать, возвращать из функции",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/yWSy/JPGT24sfV",
-      "views": 84,
+      "views": 86,
       "userId": "1",
       "createdAt": "07.11.2023",
       "type": [
@@ -781,7 +781,7 @@
       "title": "<html>",
       "subtitle": "Содержит всю страницу внутри — и метаданные, и контент",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/VBJa/3JnHcUksR",
-      "views": 3,
+      "views": 4,
       "userId": "1",
       "createdAt": "22.05.2024",
       "type": [
@@ -848,7 +848,7 @@
       "title": "<head> всему голова",
       "subtitle": "Говорим о заголовке страницы, фавиконке, способах подключения стилей и скриптов",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/z9fu/o75AKVXW9",
-      "views": 29,
+      "views": 31,
       "userId": "1",
       "createdAt": "16.03.2024",
       "type": [
@@ -1195,7 +1195,7 @@
       "title": "Специфичность селекторов",
       "subtitle": "Как браузер решает, какие стили применять к элементу? Разбираемся, почему у селектора есть вес",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/9KMm/bgE8QuiEJ",
-      "views": 76,
+      "views": 82,
       "userId": "1",
       "createdAt": "06.02.2024",
       "type": [
@@ -1282,7 +1282,7 @@
       "title": ":has()",
       "subtitle": "Уникальный селектор, позволяющий стилизовать родителя при наличии конкретного ребёнка",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/LmgD/VERhDqvRy",
-      "views": 26,
+      "views": 32,
       "userId": "1",
       "createdAt": "08.01.2024",
       "type": [
@@ -1362,7 +1362,7 @@
       "title": "Рекурсия",
       "subtitle": "Зачем функции вызывать саму себя — одна из любимых тем на собеседовании",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/HKgb/CT68zD88f",
-      "views": 219,
+      "views": 227,
       "userId": "1",
       "createdAt": "04.11.2023",
       "type": [
@@ -1578,7 +1578,7 @@
       "title": "Области видимости",
       "subtitle": "Не все переменные одинаково доступны — всё зависит от того, в каком месте кода их объявили",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2yy6/HbzPEpeFh",
-      "views": 79,
+      "views": 81,
       "userId": "1",
       "createdAt": "14.09.2023",
       "type": [
@@ -1831,7 +1831,7 @@
       "title": "box-sizing",
       "subtitle": "Это свойство определяет как будут вести себя размеры блока",
       "img": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/dXDu/h9CLxP5pL",
-      "views": 65,
+      "views": 73,
       "userId": "1",
       "createdAt": "01.09.2023",
       "type": [
@@ -2071,6 +2071,13 @@
       "articleId": "5",
       "rate": 5,
       "id": "Ju6ZzPb"
+    },
+    {
+      "userId": "2",
+      "articleId": "4",
+      "rate": 5,
+      "feedback": "",
+      "id": "uMJEUij"
     }
   ],
   "profile-rating": [
